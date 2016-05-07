@@ -1,0 +1,170 @@
+Insert the column number to place the queen (From 0 to 7): 4
+
+ 8 Queen Solution: 1
+
+*    *    *    *    U    *    *    *    
+
+Q    *    *    *    *    *    *    *    
+
+*    *    *    Q    *    *    *    *    
+
+*    *    *    *    *    Q    *    *    
+
+*    *    *    *    *    *    *    Q    
+
+*    Q    *    *    *    *    *    *    
+
+*    *    *    *    *    *    Q    *    
+
+*    *    Q    *    *    *    *    *    
+
+Continue? (y/N): y
+Insert the column number to place the queen (From 0 to 7): 2
+
+ 8 Queen Solution: 2
+
+*    *    U    *    *    *    *    *    
+
+Q    *    *    *    *    *    *    *    
+
+*    *    *    *    *    *    Q    *    
+
+*    *    *    *    Q    *    *    *    
+
+*    *    *    *    *    *    *    Q    
+
+*    Q    *    *    *    *    *    *    
+
+*    *    *    Q    *    *    *    *    
+
+*    *    *    *    *    Q    *    *    
+
+Continue? (y/N): y
+Insert the column number to place the queen (From 0 to 7): 9
+Insert the column number to place the queen (From 0 to 7): 6
+
+ 8 Queen Solution: 3
+
+*    *    *    *    *    *    U    *    
+
+Q    *    *    *    *    *    *    *    
+
+*    *    Q    *    *    *    *    *    
+
+*    *    *    *    *    *    *    Q    
+
+*    *    *    *    *    Q    *    *    
+
+*    *    *    Q    *    *    *    *    
+
+*    Q    *    *    *    *    *    *    
+
+*    *    *    *    Q    *    *    *    
+
+Continue? (y/N): y
+Insert the column number to place the queen (From 0 to 7): 3
+
+ 8 Queen Solution: 4
+
+*    *    *    U    *    *    *    *    
+
+Q    *    *    *    *    *    *    *    
+
+*    *    *    *    Q    *    *    *    
+
+*    *    *    *    *    *    *    Q    
+
+*    Q    *    *    *    *    *    *    
+
+*    *    *    *    *    *    Q    *    
+
+*    *    Q    *    *    *    *    *    
+
+*    *    *    *    *    Q    *    *    
+
+Continue? (y/N): y
+Insert the column number to place the queen (From 0 to 7): 0
+
+ 8 Queen Solution: 5
+
+U    *    *    *    *    *    *    *    
+
+*    *    *    *    Q    *    *    *    
+
+*    *    *    *    *    *    *    Q    
+
+*    *    *    *    *    Q    *    *    
+
+*    *    Q    *    *    *    *    *    
+
+*    *    *    *    *    *    Q    *    
+
+*    Q    *    *    *    *    *    *    
+
+*    *    *    Q    *    *    *    *    
+
+Continue? (y/N): y
+Insert the column number to place the queen (From 0 to 7): 5
+
+ 8 Queen Solution: 6
+
+*    *    *    *    *    U    *    *    
+
+Q    *    *    *    *    *    *    *    
+
+*    *    *    *    Q    *    *    *    
+
+*    Q    *    *    *    *    *    *    
+
+*    *    *    *    *    *    *    Q    
+
+*    *    Q    *    *    *    *    *    
+
+*    *    *    *    *    *    Q    *    
+
+*    *    *    Q    *    *    *    *    
+
+Continue? (y/N): y
+Insert the column number to place the queen (From 0 to 7): 1
+
+ 8 Queen Solution: 7
+
+*    U    *    *    *    *    *    *    
+
+*    *    *    Q    *    *    *    *    
+
+*    *    *    *    *    Q    *    *    
+
+*    *    *    *    *    *    *    Q    
+
+*    *    Q    *    *    *    *    *    
+
+Q    *    *    *    *    *    *    *    
+
+*    *    *    *    *    *    Q    *    
+
+*    *    *    *    Q    *    *    *    
+
+Continue? (y/N): y
+Insert the column number to place the queen (From 0 to 7): 7
+
+ 8 Queen Solution: 8
+
+*    *    *    *    *    *    *    U    
+
+*    Q    *    *    *    *    *    *    
+
+*    *    *    Q    *    *    *    *    
+
+Q    *    *    *    *    *    *    *    
+
+*    *    *    *    *    *    Q    *    
+
+*    *    *    *    Q    *    *    *    
+
+*    *    Q    *    *    *    *    *    
+
+*    *    *    *    *    Q    *    *    
+
+Continue? (y/N): 
+
